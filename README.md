@@ -32,4 +32,4 @@ This project is an interactive Stock Market Analysis Dashboard created using Mic
 - `project minor 2/` – Power BI project files
 
 ## 👨‍💻 Author
-Apurv Raj
+Vikas kumar
